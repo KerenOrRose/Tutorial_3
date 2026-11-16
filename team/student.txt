@@ -1,4 +1,5 @@
 name: Keren Or Rosner
-start: 98
-minutes: 30
+start: 88
+minutes: 12.27
+
 
